@@ -1,2 +1,1 @@
-# Hello-World
-Dieses Repository dient zum üben des Github-Flows
+Wir löschen alles und lassen nur noch den Text stehen.
